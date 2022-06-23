@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+}
+body{
+    
+    font-family: 'Outfit', sans-serif;
+}
+.contenedorPrincipal{
+    background-color: hsl(220, 15%, 55%);
+    height: 657px;
+    width: 1350px;
+    position: absolute;
+    margin: auto;
+   
+}
+.cajaSecundaria{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    width: 270px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    margin: auto;
+    position: relative;
+    top: 110px;
+
+}
+h4{
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    text-align: center;
+    display: block;
+    width: 70%;
+    margin: auto;
+}
+p{
+    text-align: center;
+    color: hsl(220, 15%, 55%);
+    display: block;
+    font-size:0.9375rem;
+    width: 75%;
+    margin: auto;
+  
+}
+img{
+    border-radius: 10px;
+    height: 250px;
+    width: 250px;
+    margin-left: 10px;
+    position: relative;
+   
+}
